@@ -5,7 +5,6 @@ C:\Git\minsk\mc\bin\Debug\net5.0\mc.runtimeconfig.dev.json
 C:\Git\minsk\mc\bin\Debug\net5.0\mc.dll
 C:\Git\minsk\mc\bin\Debug\net5.0\ref\mc.dll
 C:\Git\minsk\mc\bin\Debug\net5.0\mc.pdb
-C:\Git\minsk\mc\obj\Debug\net5.0\mc.csprojAssemblyReference.cache
 C:\Git\minsk\mc\obj\Debug\net5.0\mc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Git\minsk\mc\obj\Debug\net5.0\mc.AssemblyInfoInputs.cache
 C:\Git\minsk\mc\obj\Debug\net5.0\mc.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Git\minsk\mc\obj\Debug\net5.0\mc.dll
 C:\Git\minsk\mc\obj\Debug\net5.0\ref\mc.dll
 C:\Git\minsk\mc\obj\Debug\net5.0\mc.pdb
 C:\Git\minsk\mc\obj\Debug\net5.0\mc.genruntimeconfig.cache
+C:\Git\minsk\mc\obj\Debug\net5.0\mc.csprojAssemblyReference.cache
